@@ -24,7 +24,7 @@ Assuming you have node, npm and git installed:
 
 1. In Git Bash:
     - $ git clone https://github.com/muki0082/city-weather.git city-weather
-    - $ cd city-weather
+    - $ cd cyberjaya-weather-webapp
     - $ npm install
     - $ npm start
     
