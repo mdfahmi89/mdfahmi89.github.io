@@ -6,11 +6,10 @@
 
 "Cyberjaya Weather Webapp" is a:
 1.  Simple weather forecast app, created in Angular 4.
-2.  It displayes a Cyberjaya city with main forecast information.
+2.  It shows explicitly a Cyberjaya city current time weather for that day with main forecast information.
 3.  By clicking on the city name, user should be able to view Monday to Sunday weather history in 3 hours intervals.
-
-The forecast data is provided from openweathermap api's.
-The app is responsive in both web browser and also mobile browser because i'm using bootstrap template.
+4.  The forecast data is provided from openweathermap api's.
+5.  The app is responsive in both web and mobile browser because i'm using bootstrap template.
 
 
 ## DEMO
