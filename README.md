@@ -4,7 +4,7 @@
 
 ## A simple Angular 4 app, showing weather forecast in the cities
 
-![Alt text](src/assets/img/appPrintScreen.png?raw=true "App Printscreen")
+![Alt text](assets/img/appPrintScreen.png?raw=true "App Printscreen")
 
 "City weahter" is a simple weather forecast app, created in Angular 4. It displayes a list of predefined cities with main forecast information. By clicking on
 the city name, a page with extended forecast data is displayed. Also, there is a search input, to search extended forecast data for any city in the world.
