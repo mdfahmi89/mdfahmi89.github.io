@@ -23,7 +23,7 @@ The app is hosted on GitHub pages: https://mdfahmi89.github.io
 Assuming you have node, npm and git installed:
 
 1. In Git Bash:
-    - $ git clone https://github.com/muki0082/city-weather.git city-weather
+    - $ git clone https://github.com/mdfahmi89/cyberjaya-weather-webapp.git
     - $ cd cyberjaya-weather-webapp
     - $ npm install
     - $ npm start
